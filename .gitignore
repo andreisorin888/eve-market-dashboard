@@ -1,0 +1,15 @@
+# Cache & runtime
+data/cache.db
+data/*.db
+__pycache__/
+*.pyc
+*.pyo
+.deps_installed
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# Python envs
+.venv/
+venv/
+env/
